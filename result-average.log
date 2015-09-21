@@ -1,0 +1,8 @@
+Average result for Run: ./yii-logger.php ./yii-logger-default.php:	0.31620690822601
+Average result for Run: ./yii-logger.php ./yii-logger-force-export.php:	0.30513064861298
+Average result for Run: ./yii-logger.php ./yii-logger-force-flush.php:	0.7636531829834
+Average result for Run: ./mougrim-logger.php ./mougrim-logger-format.php:	0.87758529186249
+Average result for Run: ./mougrim-logger.php ./mougrim-logger-like-yii.php:	0.49777793884277
+Average result for Run: ./mougrim-logger.php ./mougrim-logger-like-yii-without-user-info.php:	0.39138970375061
+Average result for Run: ./mougrim-logger.php ./mougrim-logger-simple.php:	0.32165296872457
+Average result for Run: ./mougrim-logger.php ./mougrim-logger-without-format.php:	0.20979318022728
